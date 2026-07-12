@@ -46,6 +46,8 @@ apis:
       developer API is currently documented; corporate, investor relations,
       sustainability, newsroom, and careers properties are published online.
 common:
+  - type: DomainSecurity
+    url: security/cabot-oil-and-gas-domain-security.yml
   - type: Website
     url: https://www.coterra.com
   - type: Investor Relations
