@@ -25,10 +25,6 @@ Cabot Oil & Gas was an independent oil and gas company engaged in the developmen
 
 ## APIs
 
-### Cabot Oil & Gas (now Coterra Energy)
-Cabot Oil & Gas operates today as Coterra Energy, focused on onshore oil and natural gas production across major U.S. basins. No public developer API is currently documented.
-
-**Human URL:** [https://www.coterra.com](https://www.coterra.com)
 
 ## Common Properties
 

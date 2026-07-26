@@ -11,10 +11,22 @@ tags:
   - Fortune 1000
 type: Index
 kind: company
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: paid
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Paid
+  confidence: medium
+  source:
+    - finops
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cabot-oil-and-gas.png
 access: 3rd-Party
 created: '2026-03-23'
-modified: '2026-04-23'
+modified: '2026-07-25'
 position: Producer
 description: >-
   Cabot Oil & Gas was an independent oil and gas company engaged in the
@@ -22,29 +34,7 @@ description: >-
   natural gas and oil properties in the United States. In 2021 it merged
   with Cimarex Energy to form Coterra Energy, which operates across the
   Permian Basin, Marcellus Shale, and Anadarko Basin.
-apis:
-  - aid: cabot-oil-and-gas:coterra-energy
-    name: Cabot Oil & Gas (now Coterra Energy)
-    tags:
-      - Energy
-      - Oil and Gas
-    humanURL: https://www.coterra.com
-    properties:
-      - type: Website
-        url: https://www.coterra.com
-      - type: Investor Relations
-        url: https://investors.coterra.com
-      - type: Sustainability
-        url: https://www.coterra.com/sustainability/
-      - type: Newsroom
-        url: https://www.coterra.com/media/
-      - type: Careers
-        url: https://www.coterra.com/careers/
-    description: >-
-      Cabot Oil & Gas operates today as Coterra Energy, focused on onshore
-      oil and natural gas production across major U.S. basins. No public
-      developer API is currently documented; corporate, investor relations,
-      sustainability, newsroom, and careers properties are published online.
+apis: []
 common:
   - type: DomainSecurity
     url: security/cabot-oil-and-gas-domain-security.yml
