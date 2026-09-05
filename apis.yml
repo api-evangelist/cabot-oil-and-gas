@@ -65,3 +65,6 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 specificationVersion: '0.23'
+x-parent: coterra-energy
+x-relationship: merger
+x-acquired: 2021
