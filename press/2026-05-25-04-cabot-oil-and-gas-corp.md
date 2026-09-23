@@ -1,7 +1,9 @@
 ---
 title: Cabot Oil & Gas Corp
 url: https://www.reuters.com/company/cabot-oil-gas-corp/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cabot Oil & Gas" press release artificial intelligence'
 position: 4
 source: serpapi-google

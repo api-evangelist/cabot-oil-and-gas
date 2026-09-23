@@ -1,7 +1,9 @@
 ---
 title: Cabot Oil & Gas Corporation provides operational update
 url: https://www.oilandgas360.com/cabot-oil-gas-corporation-provides-operational-update-2/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cabot Oil & Gas" press release artificial intelligence'
 position: 2
 source: serpapi-google
