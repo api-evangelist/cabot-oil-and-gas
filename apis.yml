@@ -68,3 +68,7 @@ specificationVersion: '0.23'
 x-parent: coterra-energy
 x-relationship: merger
 x-acquired: 2021
+x-status: acquired
+x-acquired-by: coterra-energy
+x-status-source: "https://www.coterra.com/"
+x-status-evidence: "Cabot Oil & Gas combined with Cimarex in October 2021 and renamed itself Coterra Energy, which in turn merged into Devon Energy on 2026-05-07 (see coterra-energy) (roadmap#812)"
