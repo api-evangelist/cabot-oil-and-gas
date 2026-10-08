@@ -47,6 +47,12 @@ description: >-
   Permian Basin, Marcellus Shale, and Anadarko Basin.
 apis: []
 common:
+  - type: Plans
+    url: plans/cabot-oil-and-gas-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/cabot-oil-and-gas-rate-limits.yml
+  - type: FinOps
+    url: finops/cabot-oil-and-gas-finops.yml
   - type: DomainSecurity
     url: security/cabot-oil-and-gas-domain-security.yml
   - type: Website
